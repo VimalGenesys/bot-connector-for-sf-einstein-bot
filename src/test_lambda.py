@@ -48,9 +48,9 @@ def test_convert_ms_response_to_byob():
     print(json.dumps(result, indent=4))
 
 if __name__ == '__main__':
-    # test_lambda_handler()
+    test_lambda_handler()
     # test_make_or_touch_bot_session()
-    test_create_conversation_session()
+    # test_create_conversation_session()
     # test_send_text_message()
     # test_convert_ms_response_to_byob()
 

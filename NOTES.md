@@ -1,0 +1,8 @@
+## Setup Environment Variables
+set SALESFORCE_BOTID="0Xxak00000016bFCAQ"
+set SALESFORCE_CLIENT_ID="3MVG9JJwBBbcN47JrMbi1yjNggQTIsRgz0EQVfK0OCkmKnS56RhMfUbBmFGXja3ub5GGg0JKR_B6wuPVBaUJ_&"
+set SALESFORCE_CLIENT_SECRET="0C0E96A604810AB815C1433945170EFF5A8653C7A003604C07E8668D80C46F01"
+set SALESFORCE_DOMAIN_NAME="genesissandbox-dev-ed.develop.my.salesforce.com"
+set SALESFORCE_FORCECONFIGENDPOINT="https://genesissandbox-dev-ed.develop.my.salesforce.com"
+set SALESFORCE_ORGID="00Dak00000A3R5I"
+set SALESFORCE_RUNTIME_BASEHOST="bot-runtime-api.sfdc-yfeipo.svc.sfdcfc.net"
